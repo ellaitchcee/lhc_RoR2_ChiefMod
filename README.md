@@ -1,2 +1,2 @@
 # lhc_Ror2_ChiefMod
-mean green bean machine
+mean lean green bean machine
