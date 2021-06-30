@@ -1,0 +1,10 @@
+{
+	"name": "ChiefMod",
+	"version_number": "0.0.1",
+	"website_url": "https://github.com/ellaitchcee/lhc_RoR2_ChiefMod",
+	"description": "test description",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
